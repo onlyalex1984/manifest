@@ -1,0 +1,15 @@
+{
+  "LatestVersion": "1.1.0",
+  "Files": [
+    {
+      "Filename": "SecurePassGenerator.ps1",
+      "Version": "1.1.0",
+      "SHA256": "4a48ea253970cfc1c1dc88e5cb67a98c39ab1a272dd1c834efb0398019006b13"
+    },
+    {
+      "Filename": "Installer.ps1",
+      "Version": "1.1.0",
+      "SHA256": "917ba1fe1d862a46fb193a533a6f9db4eee1129fc83575ce2efb65c616b543f2"
+    }
+  ]
+}
